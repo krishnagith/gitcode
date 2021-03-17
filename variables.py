@@ -1,4 +1,4 @@
-a=123
+a=1234
 print (a)
 print("value of a is {}".format(a))
 print('%s ' %a)
